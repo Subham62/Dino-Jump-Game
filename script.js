@@ -2,8 +2,8 @@ score = 0;
 cross = true;
 cross1 = true;
 
-audio = new Audio('music.mp3');
-audiogo = new Audio('gameover.mp3');
+audio = new Audio('./assets/music.mp3');
+audiogo = new Audio('./assets/gameover.mp3');
 // audio.play()
 setInterval(()=>audio.play(),10);
 
