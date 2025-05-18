@@ -23,7 +23,7 @@ A 2D web-based endless runner game where you control a dinosaur that jumps to av
 
 ## 🧰 Technologies Used
 
-- **HTML5 Canvas** – for rendering the game world
+- **HTML5** – for rendering the game world
 - **JavaScript** – core game logic, physics, and controls
 - **CSS** – styling and layout
 
@@ -49,7 +49,7 @@ A 2D web-based endless runner game where you control a dinosaur that jumps to av
 ## 📦 How to Run Locally
 
 1. **Clone the repository** :
-   git clone https://github.com/your-username/dino-jump-game.git
+   git clone https://github.com/Subham62/Dino-Jump-Game.git
 
 2. **Navigate to the folder** :
     cd dino-jump-game
