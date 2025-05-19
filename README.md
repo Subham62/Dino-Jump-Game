@@ -40,7 +40,8 @@ A 2D web-based endless runner game where you control a dinosaur that jumps to av
 ## 🕹️ How to Play
 
 - **Up Arrow**  – Jump over the obstacles
-- **right Arrow**  – To go ahead
+- **Right Arrow**  – To go ahead
+- **Left Arrow**  – To go back
 - Avoid hitting obstacles to keep running
 - Score increases the longer you survive!
 
